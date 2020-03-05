@@ -1,0 +1,9 @@
+C:\Users\Daniel Alves Rosel\source\repos\black-h0le\black-h0le\bin\Debug\black-h0le.exe.config
+C:\Users\Daniel Alves Rosel\source\repos\black-h0le\black-h0le\bin\Debug\black-h0le.exe
+C:\Users\Daniel Alves Rosel\source\repos\black-h0le\black-h0le\bin\Debug\black-h0le.pdb
+C:\Users\Daniel Alves Rosel\source\repos\black-h0le\black-h0le\obj\Debug\black-h0le.csprojAssemblyReference.cache
+C:\Users\Daniel Alves Rosel\source\repos\black-h0le\black-h0le\obj\Debug\black_h0le.Form1.resources
+C:\Users\Daniel Alves Rosel\source\repos\black-h0le\black-h0le\obj\Debug\black_h0le.Properties.Resources.resources
+C:\Users\Daniel Alves Rosel\source\repos\black-h0le\black-h0le\obj\Debug\black-h0le.csproj.GenerateResource.cache
+C:\Users\Daniel Alves Rosel\source\repos\black-h0le\black-h0le\obj\Debug\black-h0le.exe
+C:\Users\Daniel Alves Rosel\source\repos\black-h0le\black-h0le\obj\Debug\black-h0le.pdb
